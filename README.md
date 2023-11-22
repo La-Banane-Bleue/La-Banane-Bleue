@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @La-Banane-Bleue
+- 👀 I'm interested in computers
+- 🌱 I’m currently learning Python and HTML
